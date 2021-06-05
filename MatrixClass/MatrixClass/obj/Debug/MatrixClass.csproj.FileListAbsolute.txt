@@ -1,0 +1,18 @@
+C:\Users\umbre\source\repos\MatrixClass\MatrixClass\bin\Debug\MatrixClass.dll
+C:\Users\umbre\source\repos\MatrixClass\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\Users\umbre\source\repos\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csprojAssemblyReference.cache
+C:\Users\umbre\source\repos\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csproj.CoreCompileInputs.cache
+C:\Users\umbre\source\repos\MatrixClass\MatrixClass\obj\Debug\MatrixClass.dll
+C:\Users\umbre\source\repos\MatrixClass\MatrixClass\obj\Debug\MatrixClass.pdb
+F:\Programming\My C# code Library\MatrixClass\MatrixClass\bin\Debug\MatrixClass.dll
+F:\Programming\My C# code Library\MatrixClass\MatrixClass\bin\Debug\MatrixClass.pdb
+F:\Programming\My C# code Library\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csprojAssemblyReference.cache
+F:\Programming\My C# code Library\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csproj.CoreCompileInputs.cache
+F:\Programming\My C# code Library\MatrixClass\MatrixClass\obj\Debug\MatrixClass.dll
+F:\Programming\My C# code Library\MatrixClass\MatrixClass\obj\Debug\MatrixClass.pdb
+C:\Users\umbre\Desktop\Things Needed\MatrixClass\MatrixClass\bin\Debug\MatrixClass.dll
+C:\Users\umbre\Desktop\Things Needed\MatrixClass\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\Users\umbre\Desktop\Things Needed\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csprojAssemblyReference.cache
+C:\Users\umbre\Desktop\Things Needed\MatrixClass\MatrixClass\obj\Debug\MatrixClass.csproj.CoreCompileInputs.cache
+C:\Users\umbre\Desktop\Things Needed\MatrixClass\MatrixClass\obj\Debug\MatrixClass.dll
+C:\Users\umbre\Desktop\Things Needed\MatrixClass\MatrixClass\obj\Debug\MatrixClass.pdb
